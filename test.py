@@ -1,6 +1,6 @@
 a = [1,2,3,4,5,6,7,8,9]
-b = "hello world"
-print(a.reverse)
+a.reverse()
+print(a)
 
 
 
