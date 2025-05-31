@@ -42,4 +42,5 @@ plt.tight_layout()
 
 # 保存图像
 plt.savefig('中国网民规模与互联网普及率2017-2024.png', dpi=300)
+plt.savefit(r"D:\study\project\script\折线图+柱状图.png", dpi=300 )
 plt.show()

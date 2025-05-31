@@ -32,5 +32,5 @@ ax.set_rticks([2, 4, 6, 8, 10])
 ax.grid(True)
 
 plt.tight_layout()
-plt.savefig(r"D:\study\project\script\1.png", dpi=300)
+plt.savefig(r"D:\study\project\script\雷达图.png", dpi=300)
 plt.show()

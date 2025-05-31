@@ -26,5 +26,5 @@ for i, val in enumerate(data_volume):
     plt.text(i, val + 5, f'{val} ZB', ha='center', fontsize=11)
 
 plt.tight_layout()
-plt.savefig(r'D:\study\project\script\mianji.png', dpi=300)
+plt.savefig(r'D:\study\project\script\面积图.png', dpi=300)
 plt.show()
